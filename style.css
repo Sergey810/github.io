@@ -1,0 +1,36 @@
+body {
+  font-family: Georgia;
+  font-size: 16px;
+  margin: 0 auto;   
+  max-width: 800px; 
+  line-height: 1.5;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+p{
+	padding-bottom: 12px;
+}
+
+h1 {
+   font-weight: 400;
+   font-size: 36px;
+   padding-bottom: 0px;
+}
+
+h2 {
+   font-weight: 400;
+   font-size: 32px;
+   padding-bottom: 8px;
+   border-bottom: 1px solid gray ;
+}
+
+#header{
+	text-align: center;
+	margin-bottom: 32px;
+}
+
+#footer{
+	 margin-top: 64px;
+	text-align: center;
+}
